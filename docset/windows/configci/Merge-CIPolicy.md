@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -PolicyPaths
-Specifies an array of paths of the policy .xml files that this cmdlet merges.
+Specifies an array of paths of the policy .xml files that this cmdlet merges. Note that paths must be comma separated with no spaces in between.
 
 ```yaml
 Type: String[]
